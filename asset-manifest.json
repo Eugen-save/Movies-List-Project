@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/Movies-Browser-Project/static/js/main.c4388468.chunk.js",
+    "main.js.map": "/Movies-Browser-Project/static/js/main.c4388468.chunk.js.map",
+    "runtime-main.js": "/Movies-Browser-Project/static/js/runtime-main.83e39f97.js",
+    "runtime-main.js.map": "/Movies-Browser-Project/static/js/runtime-main.83e39f97.js.map",
+    "static/js/2.b1b17aa2.chunk.js": "/Movies-Browser-Project/static/js/2.b1b17aa2.chunk.js",
+    "static/js/2.b1b17aa2.chunk.js.map": "/Movies-Browser-Project/static/js/2.b1b17aa2.chunk.js.map",
+    "index.html": "/Movies-Browser-Project/index.html",
+    "static/js/2.b1b17aa2.chunk.js.LICENSE.txt": "/Movies-Browser-Project/static/js/2.b1b17aa2.chunk.js.LICENSE.txt",
+    "static/media/arrow.c22fe6c9.svg": "/Movies-Browser-Project/static/media/arrow.c22fe6c9.svg",
+    "static/media/arrowDisabled.7495ef6f.svg": "/Movies-Browser-Project/static/media/arrowDisabled.7495ef6f.svg",
+    "static/media/danger.a514e9c6.svg": "/Movies-Browser-Project/static/media/danger.a514e9c6.svg",
+    "static/media/icon-spinner.c5f29646.svg": "/Movies-Browser-Project/static/media/icon-spinner.c5f29646.svg",
+    "static/media/picture.d286a671.svg": "/Movies-Browser-Project/static/media/picture.d286a671.svg",
+    "static/media/profile.cf6ada77.svg": "/Movies-Browser-Project/static/media/profile.cf6ada77.svg",
+    "static/media/search.d6b8cda9.svg": "/Movies-Browser-Project/static/media/search.d6b8cda9.svg",
+    "static/media/star.8663155c.svg": "/Movies-Browser-Project/static/media/star.8663155c.svg",
+    "static/media/tmdb.de1a664e.svg": "/Movies-Browser-Project/static/media/tmdb.de1a664e.svg",
+    "static/media/video.0d167e4e.svg": "/Movies-Browser-Project/static/media/video.0d167e4e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83e39f97.js",
+    "static/js/2.b1b17aa2.chunk.js",
+    "static/js/main.c4388468.chunk.js"
+  ]
+}
