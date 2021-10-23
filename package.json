@@ -1,7 +1,7 @@
 {
   "name": "movies-browser",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://eugen-save.github.io/Movies-List-Project/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.1",
