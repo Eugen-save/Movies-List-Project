@@ -2,7 +2,7 @@
 
 ## :computer: Demonstration
 
-checkout [Demonstration](https://krzysztof-jaczewski.github.io/Movies-Browser/)
+checkout [Demonstration](https://Eugen-save.github.io/Movies-Browser-Project/)
 
 ## :trophy: Authors :trophy:
 
